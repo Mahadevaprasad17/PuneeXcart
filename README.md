@@ -64,7 +64,7 @@ Experience PuneeXcart in action with our interactive demo featuring:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/puneexcart.git
+   git clone https://github.com/Mahadevaprasad17/puneexcart.git
    cd puneexcart
    ```
 
